@@ -2,7 +2,6 @@
 using System.Text.RegularExpressions;
 using Unity.VisualScripting.Antlr3.Runtime;
 using UnityEngine;
-using UnityEngine.WSA;
 
 public class PlayerScript : MonoBehaviour
 {

@@ -20,8 +20,6 @@ public class Battery : MonoBehaviour
                 break;
         }
     }
-    
-
     public float GetCharge()
     {
        return charge;

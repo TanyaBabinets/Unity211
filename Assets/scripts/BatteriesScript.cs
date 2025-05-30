@@ -21,7 +21,7 @@ public class BatteriesScript : MonoBehaviour
             {
                 batImage.enabled = true;
                 Debug.Log("Battery taken");
-                Debug.Log("Battery icon position: " + batImage.transform.position);
+                Debug.Log("Battery position: " + batImage.transform.position);
             }         
            
         }
